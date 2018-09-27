@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name lc_lib)(type KiCad)(uri x:/lc_kicad_lib/lc_lib.pretty)(options "")(descr ""))
+)
